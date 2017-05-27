@@ -1,0 +1,8 @@
+[package]
+name = "tiny_http_cmd"
+version = "0.1.0"
+authors = ["Chen Weiguang <chen.weiguang@gmail.com>"]
+
+[dependencies]
+hyper = "0.10"
+tiny_http = "0.5.8"
